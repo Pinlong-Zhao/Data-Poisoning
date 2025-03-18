@@ -115,7 +115,7 @@ IJCAI `2023`. [[Paper](https://dl.acm.org/doi/abs/10.5555/3172077.3172440)]
 ### 🔷 Preference Alignment
 ### 🔷 Instruction Tuning
 ### 🔷 Prefix Tuning
-### 🔷 In-Context Learning Phase
+### 🔷 In-Context Learning
 ### 🔷 Prompt Injection
 
 
