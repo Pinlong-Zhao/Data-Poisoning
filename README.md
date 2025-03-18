@@ -3,7 +3,7 @@
 > Data Poisoning in Deep Learning: A Survey
 >
 >
-> 深度学习中的数据数据投毒：综述
+> 深度学习中的数据投毒：综述
 
 
 <p align="center">
