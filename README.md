@@ -1,5 +1,5 @@
 # Data-Poisoning
-![sdgcn_img](assets/fig1.jpg)
+![Data poisoning](assets/fig1.png)
 
 
 
