@@ -51,32 +51,75 @@ We appreciate your contributions and feedback!
 
 ### 🔷 Attack Objective
 #### 🌿 Label Modification Attack
-- **Data collection and quality challenges in deep learning: A data-centric ai perspective.**<br>
-*Whang, Steven Euijong and Roh, Yuji and Song, Hwanjun and Lee, Jae-Gil.*<br>
-The VLDB Journal 2023. [[Paper](https://link.springer.com/article/10.1007/s00778-022-00775-9)]
-
-- **Data collection and quality challenges in deep learning: A data-centric ai perspective.**<br>
-*Whang, Steven Euijong and Roh, Yuji and Song, Hwanjun and Lee, Jae-Gil.*<br>
-The VLDB Journal 2023. [[Paper](https://link.springer.com/article/10.1007/s00778-022-00775-9)]
+- *Efficient label contamination attacks against black-box learning models.**<br>
+*Zhao, Mengchen and An, Bo and Gao, Wei and Zhang, Teng.*<br>
+IJCAI `2023`. [[Paper](https://dl.acm.org/doi/abs/10.5555/3172077.3172440)]
+- *Efficient label contamination attacks against black-box learning models.**<br>
+*Zhao, Mengchen and An, Bo and Gao, Wei and Zhang, Teng.*<br>
+IJCAI `2023`. [[Paper](https://dl.acm.org/doi/abs/10.5555/3172077.3172440)]
 
 #### 🌿 Input Modification Attack
+- *Efficient label contamination attacks against black-box learning models.**<br>
+*Zhao, Mengchen and An, Bo and Gao, Wei and Zhang, Teng.*<br>
+IJCAI `2023`. [[Paper](https://dl.acm.org/doi/abs/10.5555/3172077.3172440)]
 #### 🌿 Data Modification Attack
+- *Efficient label contamination attacks against black-box learning models.**<br>
+*Zhao, Mengchen and An, Bo and Gao, Wei and Zhang, Teng.*<br>
+IJCAI `2023`. [[Paper](https://dl.acm.org/doi/abs/10.5555/3172077.3172440)]
 
 
 ### 🔷 Attack Goal
 #### 🌿 Untargeted Attack
-- **Data collection and quality challenges in deep learning: A data-centric ai perspective.**<br>
-*Whang, Steven Euijong and Roh, Yuji and Song, Hwanjun and Lee, Jae-Gil.*<br>
-The VLDB Journal 2023. [[Paper](https://link.springer.com/article/10.1007/s00778-022-00775-9)]
-
-- **Data collection and quality challenges in deep learning: A data-centric ai perspective.**<br>
-*Whang, Steven Euijong and Roh, Yuji and Song, Hwanjun and Lee, Jae-Gil.*<br>
-The VLDB Journal 2023. [[Paper](https://link.springer.com/article/10.1007/s00778-022-00775-9)]
-
 #### 🌿 Targeted Attack
 #### 🌿 Backdoor Attack
 
 ### 🔷 Attack Knowledge
+#### 🌿 White-box Attack
+#### 🌿 Black-box Attack
+#### 🌿 Gray-box Attack
+
+### 🔷 Attack Stealthiness
+#### 🌿 Non-stealthy Attack
+#### 🌿 Stealthy Attack
+
+### 🔷 Attack Scope
+#### 🌿 Single-Instance Attack
+#### 🌿 Single-pattern Attack
+#### 🌿 Single-class Attack
+#### 🌿 Broad-scope Attack
+
+### 🔷 Attack Impact
+#### 🌿 Performance Attack
+#### 🌿 Robustness Attack
+#### 🌿 Fairness Attack
+
+### 🔷 Attack Variability
+#### 🌿 Static Attack
+#### 🌿 Dynamic Attack
+
+
+## TAXONOMY OF POISONING ALGORITHMS
+
+### 🔷 Heuristic-based Attacks
+### 🔷 Label Flipping Attacks
+### 🔷 Feature Space Attacks
+### 🔷 Bilevel Optimization Attacks
+### 🔷 Influence-based Attacks
+### 🔷 Generative Attacks
+
+
+## DATA POISONING IN LARGE LANGUAGE MODELS
+
+### 🔷 Pre-training
+### 🔷 Fine-tuning
+### 🔷 Preference Alignment
+### 🔷 Instruction Tuning
+### 🔷 Prefix Tuning
+### 🔷 In-Context Learning Phase
+### 🔷 Prompt Injection
+
+
+
 
 ## Citation 📖 
 The manuscript is avaliable in arXiv:
