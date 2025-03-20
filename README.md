@@ -97,7 +97,6 @@ NeurIPS `2020`. [[Paper](https://proceedings.neurips.cc/paper/2020/hash/8ce6fc70
 arXiv `2021`. [[Paper](https://arxiv.org/abs/2103.02683)] [[Data](https://github.com/kuangliu/pytorch-cifar)]
 
 
-
 #### 🌿 Data Modification Attack
 - **Badnets: Identifying vulnerabilities in the machine learning model supply chain.**<br>
 *Gu, Tianyu and Dolan-Gavitt, Brendan and Garg, Siddharth.*<br>
@@ -226,15 +225,32 @@ ICML  `2023`. [[Paper](https://openreview.net/forum?id=k7xYHWG21O)] [[Code](http
 
 ### 🔷 Attack Stealthiness
 #### 🌿 Non-stealthy Attack
-- **.**<br>
-*.*<br>
-  `2000`. [[Paper]()]
+- **Badnets: Identifying vulnerabilities in the machine learning model supply chain.**<br>
+*Gu, Tianyu and Dolan-Gavitt, Brendan and Garg, Siddharth.*<br>
+arXiv `2017`. [[Paper](https://arxiv.org/abs/1708.06733)]
+- **Trojaning attack on neural networks.**<br>
+*Liu, Yingqi and Ma, Shiqing and Aafer, Yousra and Lee, Wen-Chuan and Zhai, Juan and Wang, Weihang and Zhang, Xiangyu.*<br>
+NDSS `2018`. [[Paper](https://scholarship.libraries.rutgers.edu/esploro/outputs/conferencePaper/Trojaning-attack-on-neural-networks/991031794682704646)]
+- **Reflection backdoor: A natural backdoor attack on deep neural networks.**<br>
+*Liu, Yunfei and Ma, Xingjun and Bailey, James and Lu, Feng.*<br>
+ ECCV `2020`. [[Paper](https://link.springer.com/chapter/10.1007/978-3-030-58607-2_11)]
 
 #### 🌿 Stealthy Attack
-- **.**<br>
-*.*<br>
-  `2000`. [[Paper]()]
-
+- **When does machine learning {FAIL}? generalized transferability for evasion and poisoning attacks.**<br>
+*Suciu, Octavian and Marginean, Radu and Kaya, Yigitcan and Daume III, Hal and Dumitras, Tudor.*<br>
+USENIX Security `2018`. [[Paper](https://www.usenix.org/conference/usenixsecurity18/presentation/suciu)][[Code](https://githubcom/sdsatumd)]
+- **Simtrojan: Stealthy backdoor attack.**<br>
+*Ren, Yankun and Li, Longfei and Zhou, Jun.*<br>
+ICIP `2021`. [[Paper](https://ieeexplore.ieee.org/abstract/document/9506313/)]
+- **Invisible backdoor attacks on deep neural networks via steganography and regularization.**<br>
+*Li, Shaofeng and Xue, Minhui and Zhao, Benjamin Zi Hao and Zhu, Haojin and Zhang, Xinpeng.*<br>
+TDSC `2020`. [[Paper](https://ieeexplore.ieee.org/abstract/document/9186317/)]
+- **Shadowcast: Stealthy data poisoning attacks against vision-language models.**<br>
+*Xu, Yuancheng and Yao, Jiarui and Shu, Manli and Sun, Yanchao and Wu, Zichu and Yu, Ning and Goldstein, Tom and Huang, Furong.*<br>
+arXiv `2024`. [[Paper](https://arxiv.org/abs/2402.06659)] [[Code](https://github.com/umd-huang-lab/VLM-Poisoning)] [[Data](https://nips.cc/public/guides/CodeSubmissionPolicy)]
+- **Stealthy backdoor attack for code models.**<br>
+*Yang, Zhou and Xu, Bowen and Zhang, Jie M and Kang, Hong Jin and Shi, Jieke and He, Junda and Lo, David.*<br>
+ TSE `2024`. [[Paper](https://ieeexplore.ieee.org/abstract/document/10431665/)] [[Code](https://github.com/yangzhou6666/adversarial-backdoor-for-code-models)] [[Data](https://www.surveymonkey.com/mp/sample-size-calculator/4)]
 
 
 ### 🔷 Attack Scope
@@ -242,14 +258,44 @@ ICML  `2023`. [[Paper](https://openreview.net/forum?id=k7xYHWG21O)] [[Code](http
 - **.**<br>
 *.*<br>
   `2000`. [[Paper]()]
+
 - **.**<br>
 *.*<br>
   `2000`. [[Paper]()]
 
 #### 🌿 Single-pattern Attack
-#### 🌿 Single-class Attack
-#### 🌿 Broad-scope Attack
+- **.**<br>
+*.*<br>
+  `2000`. [[Paper]()]
 
+- **.**<br>
+*.*<br>
+  `2000`. [[Paper]()]
+
+
+
+#### 🌿 Single-class Attack
+- **.**<br>
+*.*<br>
+  `2000`. [[Paper]()]
+
+- **.**<br>
+*.*<br>
+  `2000`. [[Paper]()]
+
+
+  
+#### 🌿 Broad-scope Attack
+- **.**<br>
+*.*<br>
+  `2000`. [[Paper]()]
+
+- **.**<br>
+*.*<br>
+  `2000`. [[Paper]()]
+
+
+  
 ### 🔷 Attack Impact
 #### 🌿 Performance Attack
 #### 🌿 Robustness Attack
