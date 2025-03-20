@@ -51,9 +51,9 @@ We appreciate your contributions and feedback!
 
 ### 🔷 Attack Objective
 #### 🌿 Label Modification Attack
-- *Efficient label contamination attacks against black-box learning models.**<br>
+- **Efficient label contamination attacks against black-box learning models.**<br>
 *Zhao, Mengchen and An, Bo and Gao, Wei and Zhang, Teng.*<br>
-IJCAI `2023`. [[Paper](https://dl.acm.org/doi/abs/10.5555/3172077.3172440)]
+IJCAI `2023`. [[Paper](https://dl.acm.org/doi/abs/10.5555/3172077.3172440)] [[Data]([https://dl.acm.org/doi/abs/10.5555/3172077.3172440](https://www.csie.ntu.edu.tw/˜cjlin/libsvmtools/datasets/.))]
 - *Efficient label contamination attacks against black-box learning models.**<br>
 *Zhao, Mengchen and An, Bo and Gao, Wei and Zhang, Teng.*<br>
 IJCAI `2023`. [[Paper](https://dl.acm.org/doi/abs/10.5555/3172077.3172440)]
