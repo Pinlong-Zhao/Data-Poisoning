@@ -76,8 +76,7 @@ NeurIPS  `2018`. [[Paper](https://proceedings.neurips.cc/paper_files/paper/2018/
 USENIX Security `2018`. [[Paper](https://www.usenix.org/conference/usenixsecurity18/presentation/suciu)][[Code](https://githubcom/sdsatumd)]
 - **Transferable clean-label poisoning attacks on deep neural nets.**<br>
 *Zhu, Chen and Huang, W Ronny and Li, Hengduo and Taylor, Gavin and Studer, Christoph and Goldstein, Tom.*<br>
-ICML `2019`. [[Paper](https://proceedings.mlr.press/v97/zhu19a.html)] [[Code](https://github.com/zhuchen03/ConvexPolytopePosioning.git)] [[Data](https://github.com/kuangliu/
- pytorch-cifar)]
+ICML `2019`. [[Paper](https://proceedings.mlr.press/v97/zhu19a.html)] [[Code](https://github.com/zhuchen03/ConvexPolytopePosioning.git)] [[Data](https://github.com/kuangliu/pytorch-cifar)]
 - **Practical poisoning attacks on neural networks.**<br>
 *Guo, Junfeng and Liu, Cong.*<br>
 ECCV `2020`. [[Paper](https://link.springer.com/chapter/10.1007/978-3-030-58583-9_9)] 
@@ -89,42 +88,56 @@ EuroS&P `2021`. [[Paper](https://ieeexplore.ieee.org/abstract/document/9581207/)
 AISTATS `2020`. [[Paper](https://proceedings.mlr.press/v108/lorraine20a.html)]
 - **Witches' brew: Industrial scale data poisoning via gradient matching.**<br>
 *Geiping, Jonas and Fowl, Liam and Huang, W Ronny and Czaja, Wojciech and Taylor, Gavin and Moeller, Michael and Goldstein, Tom.*<br>
-arXiv `2020`. [[Paper](https://arxiv.org/abs/2009.02276)] [[Code](https://github.com/JonasGeiping/
- poisoning-gradient-matching)]
-- **.**<br>
-* .*<br>
-U `2022`. [[Paper]()]
-- **.**<br>
-* .*<br>
-U `2022`. [[Paper]()]
-
-
-
-
+arXiv `2020`. [[Paper](https://arxiv.org/abs/2009.02276)] [[Code](https://github.com/JonasGeiping/poisoning-gradient-matching)]
+- **Metapoison: Practical general-purpose clean-label data poisoning.**<br>
+*Huang, W Ronny and Geiping, Jonas and Fowl, Liam and Taylor, Gavin and Goldstein, Tom.*<br>
+NeurIPS `2020`. [[Paper](https://proceedings.neurips.cc/paper/2020/hash/8ce6fc704072e351679ac97d4a985574-Abstract.html)] [[Code](https://wwwgithubcom/wronnyhuang/metapoison)]
+- **Preventing unauthorized use of proprietary data: Poisoning for secure dataset release.**<br>
+*Fowl, Liam and Chiang, Ping-yeh and Goldblum, Micah and Geiping, Jonas and Bansal, Arpit and Czaja, Wojtek and Goldstein, Tom.*<br>
+arXiv `2021`. [[Paper](https://arxiv.org/abs/2103.02683)] [[Data](https://github.com/kuangliu/pytorch-cifar)]
 
 
 
 #### 🌿 Data Modification Attack
-- *Efficient label contamination attacks against black-box learning models.**<br>
-*Zhao, Mengchen and An, Bo and Gao, Wei and Zhang, Teng.*<br>
-IJCAI `2023`. [[Paper](https://dl.acm.org/doi/abs/10.5555/3172077.3172440)]
-
-
-
-
-
-
-- **.**<br>
-* .*<br>
-U `2022`. [[Paper]()]
-- **.**<br>
-* .*<br>
-U `2022`. [[Paper]()]
+- **Badnets: Identifying vulnerabilities in the machine learning model supply chain.**<br>
+*Gu, Tianyu and Dolan-Gavitt, Brendan and Garg, Siddharth.*<br>
+arXiv `2017`. [[Paper](https://arxiv.org/abs/1708.06733)]
+- **Trojaning attack on neural networks.**<br>
+*Liu, Yingqi and Ma, Shiqing and Aafer, Yousra and Lee, Wen-Chuan and Zhai, Juan and Wang, Weihang and Zhang, Xiangyu.*<br>
+NDSS `2018`. [[Paper](https://scholarship.libraries.rutgers.edu/esploro/outputs/conferencePaper/Trojaning-attack-on-neural-networks/991031794682704646)]
+- **Facehack: Triggering backdoored facial recognition systems using facial characteristics.**<br>
+*Sarkar, Esha and Benkraouda, Hadjer and Maniatakos, Michail.*<br>
+arXiv `2020`. [[Paper](https://arxiv.org/abs/2006.11623)]
+- **Backdoor embedding in convolutional neural network models via invisible perturbation.**<br>
+*Zhong, Haoti and Liao, Cong and Squicciarini, Anna Cinzia and Zhu, Sencun and Miller, David.*<br>
+CODASPY `2020`. [[Paper](https://dl.acm.org/doi/abs/10.1145/3374664.3375751)]
+- **Input-aware dynamic backdoor attack.**<br>
+*Nguyen, Tuan Anh and Tran, Anh.*<br>
+NeurIPS `2020`. [[Paper](https://proceedings.neurips.cc/paper/2020/hash/234e691320c0ad5b45ee3c96d0d7b8f8-Abstract.html)]
+- **Lira: Learnable, imperceptible and robust backdoor attacks.**<br>
+*Doan, Khoa and Lao, Yingjie and Zhao, Weijie and Li, Ping.*<br>
+ICCV `2021`. [[Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Doan_LIRA_Learnable_Imperceptible_and_Robust_Backdoor_Attacks_ICCV_2021_paper.html)]
+- **Invisible backdoor attack with sample-specific triggers.**<br>
+*Li, Yuezun and Li, Yiming and Wu, Baoyuan and Li, Longkang and He, Ran and Lyu, Siwei.*<br>
+ICCV `2021`. [[Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Li_Invisible_Backdoor_Attack_With_Sample-Specific_Triggers_ICCV_2021_paper.html)] [[Code](https://github.com/yuezunli/ISSBA)]
 
 
 ### 🔷 Attack Goal
 #### 🌿 Untargeted Attack
+- **.**<br>
+*.*<br>
+ `2022`. [[Paper]()]
+- **.**<br>
+*.*<br>
+ `2022`. [[Paper]()]
+
 #### 🌿 Targeted Attack
+- **.**<br>
+*.*<br>
+ `2022`. [[Paper]()]
+- **.**<br>
+*.*<br>
+ `2022`. [[Paper]()]
 #### 🌿 Backdoor Attack
 
 ### 🔷 Attack Knowledge
