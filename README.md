@@ -53,19 +53,73 @@ We appreciate your contributions and feedback!
 #### 🌿 Label Modification Attack
 - **Efficient label contamination attacks against black-box learning models.**<br>
 *Zhao, Mengchen and An, Bo and Gao, Wei and Zhang, Teng.*<br>
-IJCAI `2023`. [[Paper](https://dl.acm.org/doi/abs/10.5555/3172077.3172440)] [[Data]([https://dl.acm.org/doi/abs/10.5555/3172077.3172440](https://www.csie.ntu.edu.tw/˜cjlin/libsvmtools/datasets/.))]
-- *Efficient label contamination attacks against black-box learning models.**<br>
-*Zhao, Mengchen and An, Bo and Gao, Wei and Zhang, Teng.*<br>
-IJCAI `2023`. [[Paper](https://dl.acm.org/doi/abs/10.5555/3172077.3172440)]
+IJCAI `2023`. [[Paper](https://dl.acm.org/doi/abs/10.5555/3172077.3172440)] [[Data](https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/)]
+- **Data poisoning attack by label flipping on splitfed learning.**<br>
+*Gajbhiye, Saurabh, Priyanka Singh, and Shaifu Gupta.*<br>
+RTIP2R `2022`. [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-23599-3_30)]
+- **A label flipping attack on machine learning model and its defense mechanism.**<br>
+*Li, Qingru and Wang, Xinru and Wang, Fangwei and Wang, Changguang.*<br>
+ICA3PP `2022`. [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-22677-9_26)]
+- **Label poisoning is all you need.**<br>
+*Jha, Rishi and Hayase, Jonathan and Oh, Sewoong.*<br>
+NeurIPS `2023`. [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/e0c9b65fb3e41aaa86576df3ec33ad2e-Abstract-Conference.html)]
+- **A Backdoor Approach with Inverted Labels Using Dirty Label-Flipping Attacks.**<br>
+*Mengara, Orson.*<br>
+IEEE Access `2024`. [[Paper](https://ieeexplore.ieee.org/abstract/document/10483076/)] [[Code](https://github.com/Trusted-AI/adversarial-robustness-toolbox/pull/2376)] [[Data](https://www.kaggle.com/datasets/mfekadu/darpa-timit-acousticphonetic-continuous-speech)]
 
 #### 🌿 Input Modification Attack
-- *Efficient label contamination attacks against black-box learning models.**<br>
-*Zhao, Mengchen and An, Bo and Gao, Wei and Zhang, Teng.*<br>
-IJCAI `2023`. [[Paper](https://dl.acm.org/doi/abs/10.5555/3172077.3172440)]
+- **Poison frogs! targeted clean-label poisoning attacks on neural networks.**<br>
+*Shafahi, Ali and Huang, W Ronny and Najibi, Mahyar and Suciu, Octavian and Studer, Christoph and Dumitras, Tudor and Goldstein, Tom.*<br>
+NeurIPS  `2018`. [[Paper](https://proceedings.neurips.cc/paper_files/paper/2018/hash/22722a343513ed45f14905eb07621686-Abstract.html)] [[Code](https://github.com/ashafahi/inceptionv3-transferLearn-poison)]
+- **When does machine learning {FAIL}? generalized transferability for evasion and poisoning attacks.**<br>
+*Suciu, Octavian and Marginean, Radu and Kaya, Yigitcan and Daume III, Hal and Dumitras, Tudor.*<br>
+USENIX Security `2018`. [[Paper](https://www.usenix.org/conference/usenixsecurity18/presentation/suciu)][[Code](https://githubcom/sdsatumd)]
+- **Transferable clean-label poisoning attacks on deep neural nets.**<br>
+*Zhu, Chen and Huang, W Ronny and Li, Hengduo and Taylor, Gavin and Studer, Christoph and Goldstein, Tom.*<br>
+ICML `2019`. [[Paper](https://proceedings.mlr.press/v97/zhu19a.html)] [[Code](https://github.com/zhuchen03/ConvexPolytopePosioning.git)] [[Data](https://github.com/kuangliu/
+ pytorch-cifar)]
+- **Practical poisoning attacks on neural networks.**<br>
+*Guo, Junfeng and Liu, Cong.*<br>
+ECCV `2020`. [[Paper](https://link.springer.com/chapter/10.1007/978-3-030-58583-9_9)] 
+- **Bullseye polytope: A scalable clean-label poisoning attack with improved transferability.**<br>
+*Aghakhani, Hojjat and Meng, Dongyu and Wang, Yu-Xiang and Kruegel, Christopher and Vigna, Giovanni.*<br>
+EuroS&P `2021`. [[Paper](https://ieeexplore.ieee.org/abstract/document/9581207/)] [[Code](github.com/ucsb-seclab/BullseyePoison.)]
+- **Optimizing millions of hyperparameters by implicit differentiation.**<br>
+*Lorraine, Jonathan and Vicol, Paul and Duvenaud, David.*<br>
+AISTATS `2020`. [[Paper](https://proceedings.mlr.press/v108/lorraine20a.html)]
+- **Witches' brew: Industrial scale data poisoning via gradient matching.**<br>
+*Geiping, Jonas and Fowl, Liam and Huang, W Ronny and Czaja, Wojciech and Taylor, Gavin and Moeller, Michael and Goldstein, Tom.*<br>
+arXiv `2020`. [[Paper](https://arxiv.org/abs/2009.02276)] [[Code](https://github.com/JonasGeiping/
+ poisoning-gradient-matching)]
+- **.**<br>
+* .*<br>
+U `2022`. [[Paper]()]
+- **.**<br>
+* .*<br>
+U `2022`. [[Paper]()]
+
+
+
+
+
+
+
 #### 🌿 Data Modification Attack
 - *Efficient label contamination attacks against black-box learning models.**<br>
 *Zhao, Mengchen and An, Bo and Gao, Wei and Zhang, Teng.*<br>
 IJCAI `2023`. [[Paper](https://dl.acm.org/doi/abs/10.5555/3172077.3172440)]
+
+
+
+
+
+
+- **.**<br>
+* .*<br>
+U `2022`. [[Paper]()]
+- **.**<br>
+* .*<br>
+U `2022`. [[Paper]()]
 
 
 ### 🔷 Attack Goal
