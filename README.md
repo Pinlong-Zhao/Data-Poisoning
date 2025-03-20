@@ -124,21 +124,56 @@ ICCV `2021`. [[Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Li_Inv
 
 ### 🔷 Attack Goal
 #### 🌿 Untargeted Attack
-- **.**<br>
-*.*<br>
- `2022`. [[Paper]()]
-- **.**<br>
-*.*<br>
- `2022`. [[Paper]()]
+- **Preventing unauthorized use of proprietary data: Poisoning for secure dataset release.**<br>
+*Fowl, Liam and Chiang, Ping-yeh and Goldblum, Micah and Geiping, Jonas and Bansal, Arpit and Czaja, Wojtek and Goldstein, Tom.*<br>
+arXiv `2021`. [[Paper](https://arxiv.org/abs/2103.02683)] [[Data](https://github.com/kuangliu/pytorch-cifar)]
+- **Towards poisoning of deep learning algorithms with back-gradient optimization.**<br>
+*Muñoz-González, Luis and Biggio, Battista and Demontis, Ambra and Paudice, Andrea and Wongrassamee, Vasin and Lupu, Emil C and Roli, Fabio.*<br>
+AISec `2017`. [[Paper](https://dl.acm.org/doi/abs/10.1145/3128572.3140451)] [[Data](https://github.com/tflearn/tflearn/blob/master/examples/images/convnet_mnist.py)]
+- **Generative poisoning attack method against neural networks.**<br>
+*Yang, Chaofei and Wu, Qing and Li, Hai and Chen, Yiran.*<br>
+arXiv `2017`. [[Paper](https://arxiv.org/abs/1703.01340)]
+- **Learning to confuse: Generating training time adversarial data with auto-encoder.**<br>
+*Feng, Ji and Cai, Qi-Zhi and Zhou, Zhi-Hua.*<br>
+NeurIPS `2019`. [[Paper](https://proceedings.neurips.cc/paper_files/paper/2019/hash/1ce83e5d4135b07c0b82afffbe2b3436-Abstract.html)]
+- **Poisoning attacks with generative adversarial nets.**<br>
+*Muñoz-González, Luis and Pfitzner, Bjarne and Russo, Matteo and Carnerero-Cano, Javier and Lupu, Emil C.*<br>
+arXiv `2019`. [[Paper](https://arxiv.org/abs/1906.07773)]
 
 #### 🌿 Targeted Attack
-- **.**<br>
-*.*<br>
- `2022`. [[Paper]()]
-- **.**<br>
-*.*<br>
- `2022`. [[Paper]()]
+- **Poison frogs! targeted clean-label poisoning attacks on neural networks.**<br>
+*Shafahi, Ali and Huang, W Ronny and Najibi, Mahyar and Suciu, Octavian and Studer, Christoph and Dumitras, Tudor and Goldstein, Tom.*<br>
+NeurIPS  `2018`. [[Paper](https://proceedings.neurips.cc/paper_files/paper/2018/hash/22722a343513ed45f14905eb07621686-Abstract.html)] [[Code](https://github.com/ashafahi/inceptionv3-transferLearn-poison)]
+- **Practical poisoning attacks on neural networks.**<br>
+*Guo, Junfeng and Liu, Cong.*<br>
+ECCV `2020`. [[Paper](https://link.springer.com/chapter/10.1007/978-3-030-58583-9_9)] 
+- **Bullseye polytope: A scalable clean-label poisoning attack with improved transferability.**<br>
+*Aghakhani, Hojjat and Meng, Dongyu and Wang, Yu-Xiang and Kruegel, Christopher and Vigna, Giovanni.*<br>
+EuroS&P `2021`. [[Paper](https://ieeexplore.ieee.org/abstract/document/9581207/)] [[Code](github.com/ucsb-seclab/BullseyePoison.)]
+- **Influence function based data poisoning attacks to top-n recommender systems.**<br>
+*Fang, Minghong and Gong, Neil Zhenqiang and Liu, Jia.*<br>
+WWW `2020`. [[Paper](https://dl.acm.org/doi/abs/10.1145/3366423.3380072)]
+- **Subpopulation data poisoning attacks.**<br>
+*Jagielski, Matthew and Severi, Giorgio and Pousette Harger, Niklas and Oprea, Alina.*<br>
+CCS `2021`. [[Paper](https://dl.acm.org/doi/abs/10.1145/3460120.3485368)]
+
 #### 🌿 Backdoor Attack
+- **Badnets: Identifying vulnerabilities in the machine learning model supply chain.**<br>
+*Gu, Tianyu and Dolan-Gavitt, Brendan and Garg, Siddharth.*<br>
+arXiv `2017`. [[Paper](https://arxiv.org/abs/1708.06733)]
+- **Targeted backdoor attacks on deep learning systems using data poisoning.**<br>
+*Chen, Xinyun and Liu, Chang and Li, Bo and Lu, Kimberly and Song, Dawn.*<br>
+arXiv `2017`. [[Paper](https://arxiv.org/pdf/1712.05526)] [[Data](https://github.com/jinze1994/DeepID)]
+- **Label-consistent backdoor attacks.**<br>
+*Turner, Alexander and Tsipras, Dimitris and Madry, Aleksander.*<br>
+arXiv `2019`. [[Paper](https://arxiv.org/abs/1912.02771)] [[Data](https://github.com/MadryLab/cifar10_challenge)]
+- **Data poisoning and backdoor attacks on audio intelligence systems.**<br>
+*Ge, Yunjie and Wang, Qian and Yu, Jiayuan and Shen, Chao and Li, Q.*<br>
+ `2023`. [[Paper](https://ieeexplore.ieee.org/abstract/document/10082866/)]
+- **Data Poisoning based Backdoor Attacks to Contrastive Learning.**<br>
+*Zhang, Jinghuai and Liu, Hongbin and Jia, Jinyuan and Gong, Neil Zhenqiang.*<br>
+CVPR `2024`. [[Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Zhang_Data_Poisoning_based_Backdoor_Attacks_to_Contrastive_Learning_CVPR_2024_paper.html)] [[Code](https://github.com/jzhang538/CorruptEncoder)]
+
 
 ### 🔷 Attack Knowledge
 #### 🌿 White-box Attack
