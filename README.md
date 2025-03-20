@@ -306,7 +306,7 @@ arXiv `2024`. [[Paper](https://arxiv.org/abs/2402.06659)] [[Code](https://github
 #### 🌿 Dynamic Attack
 
 
-## TAXONOMY OF POISONING ALGORITHMS
+## Data POISONING ALGORITHMS
 
 ### 🔷 Heuristic-based Attacks
 ### 🔷 Label Flipping Attacks
