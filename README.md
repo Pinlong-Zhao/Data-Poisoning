@@ -177,15 +177,75 @@ CVPR `2024`. [[Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Zhang_
 
 ### 🔷 Attack Knowledge
 #### 🌿 White-box Attack
+- **Poison frogs! targeted clean-label poisoning attacks on neural networks.**<br>
+*Shafahi, Ali and Huang, W Ronny and Najibi, Mahyar and Suciu, Octavian and Studer, Christoph and Dumitras, Tudor and Goldstein, Tom.*<br>
+NeurIPS  `2018`. [[Paper](https://proceedings.neurips.cc/paper_files/paper/2018/hash/22722a343513ed45f14905eb07621686-Abstract.html)] [[Code](https://github.com/ashafahi/inceptionv3-transferLearn-poison)]
+- **Learning to confuse: Generating training time adversarial data with auto-encoder.**<br>
+*Feng, Ji and Cai, Qi-Zhi and Zhou, Zhi-Hua.*<br>
+NeurIPS `2019`. [[Paper](https://proceedings.neurips.cc/paper_files/paper/2019/hash/1ce83e5d4135b07c0b82afffbe2b3436-Abstract.html)]
+- **Poisoning attack in federated learning using generative adversarial nets.**<br>
+*Zhang, Jiale and Chen, Junjun and Wu, Di and Chen, Bing and Yu, Shui.*<br>
+TrustCom `2019`. [[Paper](https://ieeexplore.ieee.org/abstract/document/8887357)]
+- **Stronger data poisoning attacks break data sanitization defenses.**<br>
+*Koh, Pang Wei and Steinhardt, Jacob and Liang, Percy.*<br>
+ Machine Learning `2022`. [[Paper](https://link.springer.com/article/10.1007/s10994-021-06119-y)] [[Code](https://github.com/kohpangwei/data-poisoning-journal-release)] [[Data](https://github.com/kohpangwei/data-poisoning-journal-release)]
+
+
 #### 🌿 Black-box Attack
+- **Zoo: Zeroth order optimization based black-box attacks to deep neural networks without training substitute models.**<br>
+*Chen, Pin-Yu and Zhang, Huan and Sharma, Yash and Yi, Jinfeng and Hsieh, Cho-Jui.*<br>
+AISec  `2017`. [[Paper](https://dl.acm.org/doi/abs/10.1145/3128572.3140448)] [[Code](https://github.com/huanzhang12/ZOO-Attack)] [[Data](https://github.com/carlini/nn_robust_attacks)]
+- **Poisonous label attack: black-box data poisoning attack with enhanced conditional DCGAN.**<br>
+*Liu, Haiqing and Li, Daoxing and Li, Yuancheng.*<br>
+ Neural Processing Letters `2021`. [[Paper](https://link.springer.com/article/10.1007/s11063-021-10584-w)]
+- **Black-Box Data Poisoning Attacks on Crowdsourcing.**<br>
+*Chen, Pengpeng and Yang, Yongqiang and Yang, Dingqi and Sun, Hailong and Chen, Zhijun and Lin, Peng.*<br>
+IJCAI  `2023`. [[Paper](https://www.ijcai.org/proceedings/2023/0332.pdf)] [[Code](https://github.com/yongqiangyang/SubPac)]
+- **Poisonrec: an adaptive data poisoning framework for attacking black-box recommender systems.**<br>
+*Song, Junshuai and Li, Zhao and Hu, Zehong and Wu, Yucheng and Li, Zhenpeng and Li, Jian and Gao, Jun.*<br>
+ICDE `2020`. [[Paper](https://ieeexplore.ieee.org/abstract/document/9101655/)] [[Data1](https://www.kaggle.com/tamber/steam-video-games/)][[Data2](https://grouplens.org/datasets/movielens/)][[Data3](http://jmcauley.ucsd.edu/data/amazon/)]
+- **Reverse attack: Black-box attacks on collaborative recommendation.**<br>
+*Zhang, Yihe and Yuan, Xu and Li, Jin and Lou, Jiadong and Chen, Li and Tzeng, Nian-Feng.*<br>
+CCS  `2021`. [[Paper](https://dl.acm.org/doi/abs/10.1145/3460120.3484805)]
+
+
 #### 🌿 Gray-box Attack
+- **Local model poisoning attacks to {Byzantine-Robust} federated learning.**<br>
+*Fang, Minghong and Cao, Xiaoyu and Jia, Jinyuan and Gong, Neil.*<br>
+USENIX Security `2020`. [[Paper](https://dl.acm.org/doi/abs/10.1145/3460120.3484805)] [[Data](https://www.kaggle.com/kmader/colorectal-histology-mnist#hmnist_64_64_L.csv)]
+- **Analyzing federated learning through an adversarial lens.**<br>
+*Bhagoji, Arjun Nitin and Chakraborty, Supriyo and Mittal, Prateek and Calo, Seraphin.*<br>
+ ICML `2019`. [[Paper](https://proceedings.mlr.press/v97/bhagoji19a.html)] [[Code](https://github.com/inspire-group/ModelPoisoning)] [[Data](https://archive.ics.uci.edu/ml/datasets/adult)]
+- **You autocomplete me: Poisoning vulnerabilities in neural code completion.**<br>
+*Schuster, Roei and Song, Congzheng and Tromer, Eran and Shmatikov, Vitaly.*<br>
+USENIX Security `2021`. [[Paper](https://www.usenix.org/conference/usenixsecurity21/presentation/schuster)]
+- **Towards Effective Data Poisoning for Imbalanced Classification.**<br>
+*Mishra, Snigdha Sushil and He, Hao and Wang, Hao.*<br>
+ICML  `2023`. [[Paper](https://openreview.net/forum?id=k7xYHWG21O)] [[Code](https://github.com/snigdhas-mishra/Data_Poisoning_Imbalanced_Classifiers)]
+
 
 ### 🔷 Attack Stealthiness
 #### 🌿 Non-stealthy Attack
+- **.**<br>
+*.*<br>
+  `2000`. [[Paper]()]
+
 #### 🌿 Stealthy Attack
+- **.**<br>
+*.*<br>
+  `2000`. [[Paper]()]
+
+
 
 ### 🔷 Attack Scope
 #### 🌿 Single-Instance Attack
+- **.**<br>
+*.*<br>
+  `2000`. [[Paper]()]
+- **.**<br>
+*.*<br>
+  `2000`. [[Paper]()]
+
 #### 🌿 Single-pattern Attack
 #### 🌿 Single-class Attack
 #### 🌿 Broad-scope Attack
