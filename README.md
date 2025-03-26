@@ -312,44 +312,62 @@ arXiv `2020`. [[Paper](https://arxiv.org/abs/2009.02276)] [[Code](https://github
 NeurIPS `2020`. [[Paper](https://proceedings.neurips.cc/paper/2020/hash/8ce6fc704072e351679ac97d4a985574-Abstract.html)] [[Code](https://wwwgithubcom/wronnyhuang/metapoison)]
 - **An algorithm for generating invisible data poisoning using adversarial noise that breaks image classification deep learning.**<br>
 *Chan-Hon-Tong, Adrien.*<br>
- Mach.Learn.Knowl.Extr. `2019`. [[Paper](https://www.mdpi.com/2504-4990/1/1/11)] [[Code](github.com/achanhon/AdversarialModel)]
+ Mach. Learn. Knowl. Extr. `2019`. [[Paper](https://www.mdpi.com/2504-4990/1/1/11)] [[Code](github.com/achanhon/AdversarialModel)]
 - **Backdoor attacks on image classification models in deep neural networks.**<br>
 *Zhang, Quanxin and Ma, Wencong and Wang, Yajie and Zhang, Yaoyuan and Shi, Zhiwei and Li, Yuanzhang.*<br>
-  `2022`. [[Paper](https://ietresearch.onlinelibrary.wiley.com/doi/epdf/10.1049/cje.2021.00.126)]
+CJE `2022`. [[Paper](https://ietresearch.onlinelibrary.wiley.com/doi/epdf/10.1049/cje.2021.00.126)]
 
 #### 🌿 Robustness Attack
-- **.**<br>
-*.*<br>
-  `2000`. [[Paper]()]
-- **.**<br>
-*.*<br>
-  `2000`. [[Paper]()]
-
+- **A concealed poisoning attack to reduce deep neural networks’ robustness against adversarial samples.**<br>
+*Zheng, Junhao and Chan, Patrick PK and Chi, Huiyang and He, Zhimin.*<br>
+Inf. Sci. `2022`. [[Paper](https://www.sciencedirect.com/science/article/pii/S0020025522011136)]
+- **Impacting Robustness in Deep Learning-Based NIDS through Poisoning Attacks.**<br>
+*Alahmed, Shahad and Alasad, Qutaiba and Yuan, Jiann-Shiun and Alawad, Mohammed.*<br>
+Algorithms `2024`. [[Paper](https://www.mdpi.com/1999-4893/17/4/155)]
+- **Adversarial Robustness Poisoning: Increasing Adversarial Vulnerability of the Model via Data Poisoning.**<br>
+*Jiang, Wenbo and Li, Hongwei and Lu, Yuxin and Fan, Wenshu and Zhang, Rui.*<br>
+IEEE Global Commun. Conf. `2024`. [[Paper](https://ieeexplore.ieee.org/abstract/document/10901504)]
 
 
 #### 🌿 Fairness Attack
-- **.**<br>
-*.*<br>
-  `2000`. [[Paper]()]
-- **.**<br>
-*.*<br>
-  `2000`. [[Paper]()]
+- **Poisoning attacks on algorithmic fairness.**<br>
+*Solans, David and Biggio, Battista and Castillo, Carlos.*<br>
+ECML PKDD `2020`. [[Paper](https://link.springer.com/chapter/10.1007/978-3-030-67658-2_10)]
+- **Poisoning attacks on fair machine learning.**<br>
+*{Van, Minh-Hao and Du, Wei and Wu, Xintao and Lu, Aidong.*<br>
+ DASFAA `2022`. [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-00123-9_30)] [[Code](ttps://github.com/minhhao97vn/PFML)]
+- **Unfair Trojan: Targeted Backdoor Attacks Against Model Fairness.**<br>
+*Furth, Nicholas and Khreishah, Abdallah and Liu, Guanxiong and Phan, NhatHai and Jararweh, Yasser.*<br>
+Handbook of Trustworthy Federated Learning `2024`. [[Paper](https://arxiv.org/abs/2210.09503)]
 
 ### 🔷 Attack Variability
 #### 🌿 Static Attack
-- **.**<br>
-*.*<br>
-  `2000`. [[Paper]()]
-
-- **.**<br>
-*.*<br>
-  `2000`. [[Paper]()]
+- **Badnets: Identifying vulnerabilities in the machine learning model supply chain.**<br>
+*Gu, Tianyu and Dolan-Gavitt, Brendan and Garg, Siddharth.*<br>
+arXiv `2017`. [[Paper](https://arxiv.org/abs/1708.06733)]
+- **Label-consistent backdoor attacks.**<br>
+*Turner, Alexander and Tsipras, Dimitris and Madry, Aleksander.*<br>
+arXiv `2019`. [[Paper](https://arxiv.org/abs/1912.02771)] [[Data](https://github.com/MadryLab/cifar10_challenge)]
+- **A new backdoor attack in cnns by training set corruption without label poisoning.**<br>
+*Barni, Mauro and Kallas, Kassem and Tondi, Benedetta.*<br>
+ICIP `2019`. [[Paper](https://ieeexplore.ieee.org/abstract/document/8802997/)]
+- **Backdoors hidden in facial features: A novel invisible backdoor attack against face recognition systems.**<br>
+*Xue, Mingfu and He, Can and Wang, Jian and Liu, Weiqiang.*<br>
+Peer-to-Peer Netw. Appl. `2021`. [[Paper](https://link.springer.com/article/10.1007/s12083-020-01031-z)]
+- **Silent Branding Attack: Trigger-free Data Poisoning Attack on Text-to-Image Diffusion Models.**<br>
+*Jang, Sangwon and Choi, June Suk and Jo, Jaehyeong and Lee, Kimin and Hwang, Sung Ju.*<br>
+arXiv `2025`. [[Paper](https://arxiv.org/abs/2503.09669)] [[Code](https://silent-branding.github.io/)]
 
 #### 🌿 Dynamic Attack
-- **.**<br>
-*.*<br>
-  `2000`. [[Paper]()]
-
+- **Input-aware dynamic backdoor attack.**<br>
+*Nguyen, Tuan Anh and Tran, Anh.*<br>
+NeurIPS `2020`. [[Paper](https://proceedings.neurips.cc/paper/2020/hash/234e691320c0ad5b45ee3c96d0d7b8f8-Abstract.html)]
+- **Poisonrec: an adaptive data poisoning framework for attacking black-box recommender systems.**<br>
+*Song, Junshuai and Li, Zhao and Hu, Zehong and Wu, Yucheng and Li, Zhenpeng and Li, Jian and Gao, Jun.*<br>
+ICDE `2020`. [[Paper](https://ieeexplore.ieee.org/abstract/document/9101655/)] [[Data1](https://www.kaggle.com/tamber/steam-video-games/)][[Data2](https://grouplens.org/datasets/movielens/)][[Data3](http://jmcauley.ucsd.edu/data/amazon/)]
+- **Dynamic Backdoor Attacks Against Machine Learning Models.**<br>
+*Salem, Ahmed and Wen, Rui and Backes, Michael and Ma, Shiqing and Zhang, Yang.*<br>
+EuroS\&P `2022`. [[Paper](https://ieeexplore.ieee.org/abstract/document/9797338)]
 
 ## Data POISONING ALGORITHMS
 
