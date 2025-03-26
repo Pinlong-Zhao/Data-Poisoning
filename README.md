@@ -375,67 +375,105 @@ EuroS\&P `2022`. [[Paper](https://ieeexplore.ieee.org/abstract/document/9797338)
 - **Badnets: Identifying vulnerabilities in the machine learning model supply chain.**<br>
 *Gu, Tianyu and Dolan-Gavitt, Brendan and Garg, Siddharth.*<br>
 arXiv `2017`. [[Paper](https://arxiv.org/abs/1708.06733)]
-
-- **.**<br>
-*.*<br>
- `2000`. [[Paper]()]
-
-
-- **.**<br>
-*.*<br>
- `2000`. [[Paper]()]
-
-
-- **.**<br>
-*.*<br>
- `2000`. [[Paper]()]
+- **Poisonrec: an adaptive data poisoning framework for attacking black-box recommender systems.**<br>
+*Song, Junshuai and Li, Zhao and Hu, Zehong and Wu, Yucheng and Li, Zhenpeng and Li, Jian and Gao, Jun.*<br>
+ICDE `2020`. [[Paper](https://ieeexplore.ieee.org/abstract/document/9101655/)] [[Data1](https://www.kaggle.com/tamber/steam-video-games/)][[Data2](https://grouplens.org/datasets/movielens/)][[Data3](http://jmcauley.ucsd.edu/data/amazon/)]
+- **Are you tampering with my data?.**<br>
+*Alberti, Michele and Pondenkandath, Vinaychandran and Wursch, Marcel and Bouillon, Manuel and Seuret, Mathias and Ingold, Rolf and Liwicki, Marcus.*<br>
+ECCV `2018`. [[Paper](https://openaccess.thecvf.com/content_eccv_2018_workshops/w10/html/Alberti_Are_You_Tampering_With_My_Data_ECCVW_2018_paper.html)] [[Code](https://github.com/vinaychandranp/Are-You-Tampering-With-My-Data)] [[Data](https://github.com/DIVA-DIA/DeepDIVA)]
+- **Invisible backdoor attack with sample-specific triggers.**<br>
+*Li, Yuezun and Li, Yiming and Wu, Baoyuan and Li, Longkang and He, Ran and Lyu, Siwei.*<br>
+ICCV `2021`. [[Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Li_Invisible_Backdoor_Attack_With_Sample-Specific_Triggers_ICCV_2021_paper.html)] [[Code](https://github.com/yuezunli/ISSBA)]
+- **Pixdoor: A pixel-space backdoor attack on deep learning models.**<br>
+*Arshad, Iram and Asghar, Mamoona Naveed and Qiao, Yuansong and Lee, Brian and Ye, Yuhang.*<br>
+EUSIPCO `2021`. [[Paper](https://ieeexplore.ieee.org/abstract/document/9616118)]
 
 ### 🔷 Label Flipping Attacks
-- **.**<br>
-*.*<br>
- `2000`. [[Paper]()]
+- **Understanding deep learning (still) requires rethinking generalization.**<br>
+*{Zhang, Chiyuan and Bengio, Samy and Hardt, Moritz and Recht, Benjamin and Vinyals, Oriol.*<br>
+Commun. ACM `2021`. [[Paper](https://dl.acm.org/doi/abs/10.1145/3446776)]
+- **Label flipping attacks against Naive Bayes on spam filtering systems.**<br>
+*Zhang, Hongpo and Cheng, Ning and Zhang, Yang and Li, Zhanbo.*<br>
+Appl. Intell. `2021`. [[Paper](https://link.springer.com/article/10.1007/s10489-020-02086-4)]
+- **A label flipping attack on machine learning model and its defense mechanism.**<br>
+*Li, Qingru and Wang, Xinru and Wang, Fangwei and Wang, Changguang.*<br>
+ICA3PP `2022`. [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-22677-9_26)]
+- **Label poisoning is all you need.**<br>
+*Jha, Rishi and Hayase, Jonathan and Oh, Sewoong.*<br>
+NeurIPS `2023`. [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/e0c9b65fb3e41aaa86576df3ec33ad2e-Abstract-Conference.html)]
+- **Rethinking Label Poisoning for GNNs: Pitfalls and Attacks.**<br>
+*Lingam, Vijay and Akhondzadeh, Mohammad Sadegh and Bojchevski, Aleksandar.*<br>
+ICLR `2024`. [[Paper](https://openreview.net/forum?id=J7ioefqDPw)] [[Code](https://github.com/VijayLingam95/RethinkingLabelPoisoningForGNNs)]
 
-- **.**<br>
-*.*<br>
- `2000`. [[Paper]()]
 
 ### 🔷 Feature Space Attacks
+- **Poison frogs! targeted clean-label poisoning attacks on neural networks.**<br>
+*Shafahi, Ali and Huang, W Ronny and Najibi, Mahyar and Suciu, Octavian and Studer, Christoph and Dumitras, Tudor and Goldstein, Tom.*<br>
+NeurIPS  `2018`. [[Paper](https://proceedings.neurips.cc/paper_files/paper/2018/hash/22722a343513ed45f14905eb07621686-Abstract.html)] [[Code](https://github.com/ashafahi/inceptionv3-transferLearn-poison)]
+- **When does machine learning {FAIL}? generalized transferability for evasion and poisoning attacks.**<br>
+*Suciu, Octavian and Marginean, Radu and Kaya, Yigitcan and Daume III, Hal and Dumitras, Tudor.*<br>
+USENIX Security `2018`. [[Paper](https://www.usenix.org/conference/usenixsecurity18/presentation/suciu)][[Code](https://githubcom/sdsatumd)]
+- **Transferable clean-label poisoning attacks on deep neural nets.**<br>
+*Zhu, Chen and Huang, W Ronny and Li, Hengduo and Taylor, Gavin and Studer, Christoph and Goldstein, Tom.*<br>
+ICML `2019`. [[Paper](https://proceedings.mlr.press/v97/zhu19a.html)] [[Code](https://github.com/zhuchen03/ConvexPolytopePosioning.git)] [[Data](https://github.com/kuangliu/pytorch-cifar)]
+- **Hidden trigger backdoor attacks.**<br>
+*Saha, Aniruddha and Subramanya, Akshayvarun and Pirsiavash, Hamed.*<br>
+AAAI `2020`. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/6871)]
+- **Practical poisoning attacks on neural networks.**<br>
+*Guo, Junfeng and Liu, Cong.*<br>
+ECCV `2020`. [[Paper](https://link.springer.com/chapter/10.1007/978-3-030-58583-9_9)] 
+- **Bullseye polytope: A scalable clean-label poisoning attack with improved transferability.**<br>
+*Aghakhani, Hojjat and Meng, Dongyu and Wang, Yu-Xiang and Kruegel, Christopher and Vigna, Giovanni.*<br>
+EuroS&P `2021`. [[Paper](https://ieeexplore.ieee.org/abstract/document/9581207/)] [[Code](github.com/ucsb-seclab/BullseyePoison.)]
+- **Enhancing clean label backdoor attack with two-phase specific triggers.**<br>
+*Luo, Nan and Li, Yuanzhang and Wang, Yajie and Wu, Shangbo and Tan, Yu-an and Zhang, Quanxin.*<br>
+arXiv `2022`. [[Paper](https://arxiv.org/abs/2206.04881)]
 
-- **.**<br>
-*.*<br>
- `2000`. [[Paper]()]
-
-- **.**<br>
-*.*<br>
- `2000`. [[Paper]()]
 ### 🔷 Bilevel Optimization Attacks
-- **.**<br>
-*.*<br>
- `2000`. [[Paper]()]
-
-- **.**<br>
-*.*<br>
- `2000`. [[Paper]()]
+- **Towards poisoning of deep learning algorithms with back-gradient optimization.**<br>
+*Muñoz-González, Luis and Biggio, Battista and Demontis, Ambra and Paudice, Andrea and Wongrassamee, Vasin and Lupu, Emil C and Roli, Fabio.*<br>
+AISec `2017`. [[Paper](https://dl.acm.org/doi/abs/10.1145/3128572.3140451)] [[Data](https://github.com/tflearn/tflearn/blob/master/examples/images/convnet_mnist.py)]
+- **Metapoison: Practical general-purpose clean-label data poisoning.**<br>
+*Huang, W Ronny and Geiping, Jonas and Fowl, Liam and Taylor, Gavin and Goldstein, Tom.*<br>
+NeurIPS `2020`. [[Paper](https://proceedings.neurips.cc/paper/2020/hash/8ce6fc704072e351679ac97d4a985574-Abstract.html)] [[Code](https://wwwgithubcom/wronnyhuang/metapoison)]
+- **Witches' brew: Industrial scale data poisoning via gradient matching.**<br>
+*Geiping, Jonas and Fowl, Liam and Huang, W Ronny and Czaja, Wojciech and Taylor, Gavin and Moeller, Michael and Goldstein, Tom.*<br>
+arXiv `2020`. [[Paper](https://arxiv.org/abs/2009.02276)] [[Code](https://github.com/JonasGeiping/poisoning-gradient-matching)]
+- **Adversarial Backdoor Attack by Naturalistic Data Poisoning on Trajectory Prediction in Autonomous Driving.**<br>
+*Pourkeshavarz, Mozhgan and Sabokrou, Mohammad and Rasouli, Amir.*<br>
+CVPR `2024`. [[Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Pourkeshavarz_Adversarial_Backdoor_Attack_by_Naturalistic_Data_Poisoning_on_Trajectory_Prediction_CVPR_2024_paper.html)] [[Code](https://github.com/Henry1iu/TNT-Trajectory-Prediction)]
+- **Backdoor Contrastive Learning via Bi-level Trigger Optimization.**<br>
+*Sun, Weiyu and Zhang, Xinyu and Lu, Hao and Chen, Yingcong and Wang, Ting and Chen, Jinghui and Lin, Lu.*<br>
+arXiv `2024`. [[Paper](https://arxiv.org/abs/2404.07863)] [[Code](https://github.com/SWY666/SSL-backdoor-BLTO)]
 
 ### 🔷 Influence-based Attacks
+- **Understanding black-box predictions via influence functions.**<br>
+*Koh, Pang Wei and Liang, Percy.*<br>
+ICML `2017`. [[Paper](https://proceedings.mlr.press/v70/koh17a?ref=https://githubhelp.com)] [[Code](http://bit.ly/gt-influence)] [[Data](http://bit.ly/cl-influence)]
+- **Influence functions in deep learning are fragile.**<br>
+*Basu, Samyadeep and Pope, Philip and Feizi, Soheil.*<br>
+ICLR `2021`. [[Paper](https://arxiv.org/abs/2006.14651)]
+- **Stronger data poisoning attacks break data sanitization defenses.**<br>
+*Koh, Pang Wei and Steinhardt, Jacob and Liang, Percy.*<br>
+ Machine Learning `2022`. [[Paper](https://link.springer.com/article/10.1007/s10994-021-06119-y)] [[Code](https://github.com/kohpangwei/data-poisoning-journal-release)] [[Data](https://github.com/kohpangwei/data-poisoning-journal-release)]
 
-- **.**<br>
-*.*<br>
- `2000`. [[Paper]()]
-
-- **.**<br>
-*.*<br>
- `2000`. [[Paper]()]
 
 ### 🔷 Generative Attacks
-
-- **.**<br>
-*.*<br>
- `2000`. [[Paper]()]
-
-- **.**<br>
-*.*<br>
- `2000`. [[Paper]()]
+- **Generative poisoning attack method against neural networks.**<br>
+*Yang, Chaofei and Wu, Qing and Li, Hai and Chen, Yiran.*<br>
+arXiv `2017`. [[Paper](https://arxiv.org/abs/1703.01340)]
+- **Learning to confuse: Generating training time adversarial data with auto-encoder.**<br>
+*Feng, Ji and Cai, Qi-Zhi and Zhou, Zhi-Hua.*<br>
+NeurIPS `2019`. [[Paper](https://proceedings.neurips.cc/paper_files/paper/2019/hash/1ce83e5d4135b07c0b82afffbe2b3436-Abstract.html)]
+- **Poisoning attacks with generative adversarial nets.**<br>
+*Muñoz-González, Luis and Pfitzner, Bjarne and Russo, Matteo and Carnerero-Cano, Javier and Lupu, Emil C.*<br>
+arXiv `2019`. [[Paper](https://arxiv.org/abs/1906.07773)]
+- **GAN-driven data poisoning attacks and their mitigation in federated learning systems.**<br>
+*Psychogyios, Konstantinos and Velivassaki, Terpsichori-Helen and Bourou, Stavroula and Voulkidis, Artemis and Skias, Dimitrios and Zahariadis, Theodore.*<br>
+Electronics `2023`. [[Paper](https://www.mdpi.com/2079-9292/12/8/1805)] [[Data](https://data.mendeley.com/datasets/tywbtsjrjv)]
+- **Poisoning QoS-aware cloud API recommender system with generative adversarial network attack.**<br>
+*Chen, Zhen and Bao, Taiyu and Qi, Wenchao and You, Dianlong and Liu, Linlin and Shen, Limin.*<br>
+Expert Syst. Appl. `2024`. [[Paper](https://www.sciencedirect.com/science/article/pii/S0957417423021322)] [[Code](https://github.com/bty123/DataPoisonAttack)] [[Data](https://github.com/bty123/DataPoisonAttack)]
 
 
 ## DATA POISONING IN LARGE LANGUAGE MODELS
@@ -453,7 +491,13 @@ arXiv `2017`. [[Paper](https://arxiv.org/abs/1708.06733)]
 ### 🔷 Prefix Tuning
 ### 🔷 In-Context Learning
 ### 🔷 Prompt Injection
+- **.**<br>
+*.*<br>
+ `2000`. [[Paper]()]
 
+- **.**<br>
+*.*<br>
+ `2000`. [[Paper]()]
 
 
 
