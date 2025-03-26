@@ -255,55 +255,100 @@ arXiv `2024`. [[Paper](https://arxiv.org/abs/2402.06659)] [[Code](https://github
 
 ### 🔷 Attack Scope
 #### 🌿 Single-Instance Attack
-- **.**<br>
-*.*<br>
-  `2000`. [[Paper]()]
-
-- **.**<br>
-*.*<br>
-  `2000`. [[Paper]()]
+- **Poison frogs! targeted clean-label poisoning attacks on neural networks.**<br>
+*Shafahi, Ali and Huang, W Ronny and Najibi, Mahyar and Suciu, Octavian and Studer, Christoph and Dumitras, Tudor and Goldstein, Tom.*<br>
+NeurIPS  `2018`. [[Paper](https://proceedings.neurips.cc/paper_files/paper/2018/hash/22722a343513ed45f14905eb07621686-Abstract.html)] [[Code](https://github.com/ashafahi/inceptionv3-transferLearn-poison)]
+- **When does machine learning {FAIL}? generalized transferability for evasion and poisoning attacks.**<br>
+*Suciu, Octavian and Marginean, Radu and Kaya, Yigitcan and Daume III, Hal and Dumitras, Tudor.*<br>
+USENIX Security `2018`. [[Paper](https://www.usenix.org/conference/usenixsecurity18/presentation/suciu)][[Code](https://githubcom/sdsatumd)]
+- **Label-consistent backdoor attacks.**<br>
+*Turner, Alexander and Tsipras, Dimitris and Madry, Aleksander.*<br>
+arXiv `2019`. [[Paper](https://arxiv.org/abs/1912.02771)] [[Data](https://github.com/MadryLab/cifar10_challenge)]
 
 #### 🌿 Single-pattern Attack
-- **.**<br>
-*.*<br>
-  `2000`. [[Paper]()]
-
-- **.**<br>
-*.*<br>
-  `2000`. [[Paper]()]
-
-
+- **Badnets: Identifying vulnerabilities in the machine learning model supply chain.**<br>
+*Gu, Tianyu and Dolan-Gavitt, Brendan and Garg, Siddharth.*<br>
+arXiv `2017`. [[Paper](https://arxiv.org/abs/1708.06733)]
+- **Lira: Learnable, imperceptible and robust backdoor attacks.**<br>
+*Doan, Khoa and Lao, Yingjie and Zhao, Weijie and Li, Ping.*<br>
+ICCV `2021`. [[Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Doan_LIRA_Learnable_Imperceptible_and_Robust_Backdoor_Attacks_ICCV_2021_paper.html)]
+- **Invisible backdoor attack with sample-specific triggers.**<br>
+*Li, Yuezun and Li, Yiming and Wu, Baoyuan and Li, Longkang and He, Ran and Lyu, Siwei.*<br>
+ICCV `2021`. [[Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Li_Invisible_Backdoor_Attack_With_Sample-Specific_Triggers_ICCV_2021_paper.html)] [[Code](https://github.com/yuezunli/ISSBA)]
+- **Hidden trigger backdoor attacks.**<br>
+*Saha, Aniruddha and Subramanya, Akshayvarun and Pirsiavash, Hamed.*<br>
+AAAI `2020`. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/6871)]
 
 #### 🌿 Single-class Attack
-- **.**<br>
-*.*<br>
-  `2000`. [[Paper]()]
-
-- **.**<br>
-*.*<br>
-  `2000`. [[Paper]()]
-
-
+- **Are you tampering with my data?.**<br>
+*Alberti, Michele and Pondenkandath, Vinaychandran and Wursch, Marcel and Bouillon, Manuel and Seuret, Mathias and Ingold, Rolf and Liwicki, Marcus.*<br>
+ECCV `2018`. [[Paper](https://openaccess.thecvf.com/content_eccv_2018_workshops/w10/html/Alberti_Are_You_Tampering_With_My_Data_ECCVW_2018_paper.html)] [[Code](https://github.com/vinaychandranp/Are-You-Tampering-With-My-Data)] [[Data](https://github.com/DIVA-DIA/DeepDIVA)]
+- **Deeppoison: Feature transfer based stealthy poisoning attack for dnns.**<br>
+*Chen, Jinyin and Zhang, Longyuan and Zheng, Haibin and Wang, Xueke and Ming, Zhaoyan.*<br>
+ TCAS-II `2021`. [[Paper](https://ieeexplore.ieee.org/abstract/document/9359658/)]
+- **Towards class-oriented poisoning attacks against neural networks.**<br>
+*Zhao, Bingyin and Lao, Yingjie.*<br>
+WACV `2022`. [[Paper](https://openaccess.thecvf.com/content/WACV2022/html/Zhao_Towards_Class-Oriented_Poisoning_Attacks_Against_Neural_Networks_WACV_2022_paper.html)]
   
 #### 🌿 Broad-scope Attack
-- **.**<br>
-*.*<br>
-  `2000`. [[Paper]()]
+- **Generative poisoning attack method against neural networks.**<br>
+*Yang, Chaofei and Wu, Qing and Li, Hai and Chen, Yiran.*<br>
+arXiv `2017`. [[Paper](https://arxiv.org/abs/1703.01340)]
+- **Learning to confuse: Generating training time adversarial data with auto-encoder.**<br>
+*Feng, Ji and Cai, Qi-Zhi and Zhou, Zhi-Hua.*<br>
+NeurIPS `2019`. [[Paper](https://proceedings.neurips.cc/paper_files/paper/2019/hash/1ce83e5d4135b07c0b82afffbe2b3436-Abstract.html)]
+- **Poisoning attacks with generative adversarial nets.**<br>
+*Muñoz-González, Luis and Pfitzner, Bjarne and Russo, Matteo and Carnerero-Cano, Javier and Lupu, Emil C.*<br>
+arXiv `2019`. [[Paper](https://arxiv.org/abs/1906.07773)]
 
-- **.**<br>
-*.*<br>
-  `2000`. [[Paper]()]
 
-
-  
 ### 🔷 Attack Impact
 #### 🌿 Performance Attack
+- **Witches' brew: Industrial scale data poisoning via gradient matching.**<br>
+*Geiping, Jonas and Fowl, Liam and Huang, W Ronny and Czaja, Wojciech and Taylor, Gavin and Moeller, Michael and Goldstein, Tom.*<br>
+arXiv `2020`. [[Paper](https://arxiv.org/abs/2009.02276)] [[Code](https://github.com/JonasGeiping/poisoning-gradient-matching)]
+- **Metapoison: Practical general-purpose clean-label data poisoning.**<br>
+*Huang, W Ronny and Geiping, Jonas and Fowl, Liam and Taylor, Gavin and Goldstein, Tom.*<br>
+NeurIPS `2020`. [[Paper](https://proceedings.neurips.cc/paper/2020/hash/8ce6fc704072e351679ac97d4a985574-Abstract.html)] [[Code](https://wwwgithubcom/wronnyhuang/metapoison)]
+- **An algorithm for generating invisible data poisoning using adversarial noise that breaks image classification deep learning.**<br>
+*Chan-Hon-Tong, Adrien.*<br>
+ Mach.Learn.Knowl.Extr. `2019`. [[Paper](https://www.mdpi.com/2504-4990/1/1/11)] [[Code](github.com/achanhon/AdversarialModel)]
+- **Backdoor attacks on image classification models in deep neural networks.**<br>
+*Zhang, Quanxin and Ma, Wencong and Wang, Yajie and Zhang, Yaoyuan and Shi, Zhiwei and Li, Yuanzhang.*<br>
+  `2022`. [[Paper](https://ietresearch.onlinelibrary.wiley.com/doi/epdf/10.1049/cje.2021.00.126)]
+
 #### 🌿 Robustness Attack
+- **.**<br>
+*.*<br>
+  `2000`. [[Paper]()]
+- **.**<br>
+*.*<br>
+  `2000`. [[Paper]()]
+
+
+
 #### 🌿 Fairness Attack
+- **.**<br>
+*.*<br>
+  `2000`. [[Paper]()]
+- **.**<br>
+*.*<br>
+  `2000`. [[Paper]()]
 
 ### 🔷 Attack Variability
 #### 🌿 Static Attack
+- **.**<br>
+*.*<br>
+  `2000`. [[Paper]()]
+
+- **.**<br>
+*.*<br>
+  `2000`. [[Paper]()]
+
 #### 🌿 Dynamic Attack
+- **.**<br>
+*.*<br>
+  `2000`. [[Paper]()]
 
 
 ## Data POISONING ALGORITHMS
