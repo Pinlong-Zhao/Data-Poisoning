@@ -372,16 +372,81 @@ EuroS\&P `2022`. [[Paper](https://ieeexplore.ieee.org/abstract/document/9797338)
 ## Data POISONING ALGORITHMS
 
 ### 🔷 Heuristic-based Attacks
+- **Badnets: Identifying vulnerabilities in the machine learning model supply chain.**<br>
+*Gu, Tianyu and Dolan-Gavitt, Brendan and Garg, Siddharth.*<br>
+arXiv `2017`. [[Paper](https://arxiv.org/abs/1708.06733)]
+
+- **.**<br>
+*.*<br>
+ `2000`. [[Paper]()]
+
+
+- **.**<br>
+*.*<br>
+ `2000`. [[Paper]()]
+
+
+- **.**<br>
+*.*<br>
+ `2000`. [[Paper]()]
+
 ### 🔷 Label Flipping Attacks
+- **.**<br>
+*.*<br>
+ `2000`. [[Paper]()]
+
+- **.**<br>
+*.*<br>
+ `2000`. [[Paper]()]
+
 ### 🔷 Feature Space Attacks
+
+- **.**<br>
+*.*<br>
+ `2000`. [[Paper]()]
+
+- **.**<br>
+*.*<br>
+ `2000`. [[Paper]()]
 ### 🔷 Bilevel Optimization Attacks
+- **.**<br>
+*.*<br>
+ `2000`. [[Paper]()]
+
+- **.**<br>
+*.*<br>
+ `2000`. [[Paper]()]
+
 ### 🔷 Influence-based Attacks
+
+- **.**<br>
+*.*<br>
+ `2000`. [[Paper]()]
+
+- **.**<br>
+*.*<br>
+ `2000`. [[Paper]()]
+
 ### 🔷 Generative Attacks
+
+- **.**<br>
+*.*<br>
+ `2000`. [[Paper]()]
+
+- **.**<br>
+*.*<br>
+ `2000`. [[Paper]()]
 
 
 ## DATA POISONING IN LARGE LANGUAGE MODELS
 
 ### 🔷 Pre-training
+- **.**<br>
+*.*<br>
+ `2000`. [[Paper]()]
+- **.**<br>
+*.*<br>
+ `2000`. [[Paper]()]
 ### 🔷 Fine-tuning
 ### 🔷 Preference Alignment
 ### 🔷 Instruction Tuning
