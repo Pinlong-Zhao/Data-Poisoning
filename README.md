@@ -1,6 +1,6 @@
-**This document will be continuously updated!** 🚧  
+<strong>🚧 Continuously updated!</strong>  
 This repository will be continuously updated with the latest research in data poisoning in deep learning.  
-📅 Last updated: March 27, 2025
+📅 Last updated: March 27, 2025 
 
 # Data Poisoning in Deep Learning: A Survey ☠️
 
