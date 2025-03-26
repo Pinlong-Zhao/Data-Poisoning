@@ -479,15 +479,53 @@ Expert Syst. Appl. `2024`. [[Paper](https://www.sciencedirect.com/science/articl
 ## DATA POISONING IN LARGE LANGUAGE MODELS
 
 ### 🔷 Pre-training
-- **.**<br>
-*.*<br>
- `2000`. [[Paper]()]
-- **.**<br>
-*.*<br>
- `2000`. [[Paper]()]
+- **Poisoning and Backdooring Contrastive Learning.**<br>
+*Nicholas Carlini and Andreas Terzis.*<br>
+ICLR `2022`. [[Paper](Poisoning and Backdooring Contrastive Learning)]
+- **Poisoning web-scale training datasets is practical.**<br>
+*Carlini, Nicholas and Jagielski, Matthew and Choquette-Choo, Christopher A and Paleka, Daniel and Pearce, Will and Anderson, Hyrum and Terzis, Andreas and Thomas, Kurt and Tramèr, Florian.*<br>
+IEEE S&P `2024`. [[Paper](https://ieeexplore.ieee.org/abstract/document/10646610)] [[Code](https://ieeexplore.ieee.org/stampPDF/downloader.py#L41)]
+- **Nightshade: Prompt-Specific Poisoning Attacks on Text-to-Image Generative Models}.**<br>
+*Shan, Shawn and Ding, Wenxin and Passananti, Josephine and Wu, Stanley and Zheng, Haitao and Zhao, Ben Y.*<br>
+IEEE S&P `2024`. [[Paper](https://ieeexplore.ieee.org/abstract/document/10646851/)]
+
 ### 🔷 Fine-tuning
+- **Characterizing poisoning attacks on generalistic multi-modal AI models.**<br>
+*Ibáñez Lissen, Luis and Fuentes García-Romero de Tejada, José María de and González Manzano, Lorena and García Alfaro, Joaquín.*<br>
+Inf. Fusion `2023`. [[Paper](https://e-archivo.uc3m.es/bitstream/10016/39263/2/characterizing_IF_2024_pp.pdf)] [[Code](https://github.com/Luisibear98/Characterizing-poisoningattacks-on-generalistic-multi-modal-AI-models)]
+- **Data Poisoning in LLMs: Jailbreak-Tuning and Scaling Laws.**<br>
+*Bowen, Dillon and Murphy, Brendan and Cai, Will and Khachaturov, David and Gleave, Adam and Pelrine, Kellin.*<br>
+arXiv `2024`. [[Paper](https://arxiv.org/abs/2408.02946)] [[Code](https://github.com/AlignmentResearch/scaling-poisoning)]
+
 ### 🔷 Preference Alignment
+- **PoisonBench: Assessing Large Language Model Vulnerability to Data Poisoning.**<br>
+*Fu, Tingchen and Sharma, Mrinank and Torr, Philip and Cohen, Shay B and Krueger, David and Barez, Fazl.*<br>
+arXiv `2024`. [[Paper](https://arxiv.org/abs/2410.08811)] [[Code](https://github.com/TingchenFu/PoisonBench)]
+- **Making LLMs Vulnerable to Prompt Injection via Poisoning Alignment.**<br>
+*Shao, Zedian and Liu, Hongbin and Mu, Jaden and Gong, Neil Zhenqiang.*<br>
+arXiv `2024`. [[Paper](https://arxiv.org/abs/2410.14827)] [[Code](https://github.com/Sadcardation/PoisonedAlign)]
+- **Universal Jailbreak Backdoors from Poisoned Human Feedback.**<br>
+*Javier Rando and Florian Tramèr.*<br>
+ICLR `2024`. [[Paper](https://arxiv.org/abs/2311.14455)] [[Code](https://github.com/ethz-spylab/rlhf-poisoning)]
 ### 🔷 Instruction Tuning
+- **Poisoning language models during instruction tuning.**<br>
+*Wan, Alexander and Wallace, Eric and Shen, Sheng and Klein, Dan.*<br>
+ICML `2023`. [[Paper](https://proceedings.mlr.press/v202/wan23b)] [[Code](https://github.com/AlexWan0/Poisoning-Instruction-Tuned-Models)]
+- **On the exploitability of instruction tuning.**<br>
+*Shu, Manli and Wang, Jiongxiao and Zhu, Chen and Geiping, Jonas and Xiao, Chaowei and Goldstein, Tom.*<br>
+NeurIPS `2023`. [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/c2a8060fd22744b38177d9e428a052e0-Abstract-Conference.html)] [[Data](https://github.com/Instruction-Tuning-with-GPT-4/GPT-4-LLM)]
+- **Instructions as backdoors: Backdoor vulnerabilities of instruction tuning for large language models.**<br>
+*Xu, Jiashu and Ma, Mingyu Derek and Wang, Fei and Xiao, Chaowei and Chen, Muhao.*<br>
+arXiv `2023`. [[Paper](https://arxiv.org/abs/2305.14710)] [[Code](https://cnut1648.github.io/instruction-attack/)]
+- **Backdooring instruction-tuned large language models with virtual prompt injection.**<br>
+*.*<br>
+ `2000`. [[Paper]()]
+
+- **.**<br>
+*.*<br>
+ `2000`. [[Paper]()]
+
+
 ### 🔷 Prefix Tuning
 ### 🔷 In-Context Learning
 ### 🔷 Prompt Injection
