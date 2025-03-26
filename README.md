@@ -518,24 +518,36 @@ NeurIPS `2023`. [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/h
 *Xu, Jiashu and Ma, Mingyu Derek and Wang, Fei and Xiao, Chaowei and Chen, Muhao.*<br>
 arXiv `2023`. [[Paper](https://arxiv.org/abs/2305.14710)] [[Code](https://cnut1648.github.io/instruction-attack/)]
 - **Backdooring instruction-tuned large language models with virtual prompt injection.**<br>
-*.*<br>
- `2000`. [[Paper]()]
-
-- **.**<br>
-*.*<br>
- `2000`. [[Paper]()]
+*Yan, Jun and Yadav, Vikas and Li, Shiyang and Chen, Lichang and Tang, Zheng and Wang, Hai and Srinivasan, Vijay and Ren, Xiang and Jin, Hongxia.*<br>
+NAACL `2024`. [[Paper](https://aclanthology.org/2024.naacl-long.337/)] [[Code](https://poison-llm.github.io/)]
+- **Learning to poison large language models during instruction tuning.**<br>
+*Qiang, Yao and Zhou, Xiangyu and Zade, Saleh Zare and Roshani, Mohammad Amin and Khanduri, Prashant and Zytko, Douglas and Zhu, Dongxiao.*<br>
+arXiv `2024`. [[Paper](https://arxiv.org/abs/2402.13459)]
 
 
 ### 🔷 Prefix Tuning
-### 🔷 In-Context Learning
-### 🔷 Prompt Injection
-- **.**<br>
-*.*<br>
- `2000`. [[Paper]()]
+- **Turning Generative Models Degenerate: The Power of Data Poisoning Attacks.**<br>
+*{Jiang, Shuli and Kadhe, Swanand Ravindra and Zhou, Yi and Ahmed, Farhan and Cai, Ling and Baracaldo, Nathalie.*<br>
+arXiv `2024`. [[Paper]({Jiang, Shuli and Kadhe, Swanand Ravindra and Zhou, Yi and Ahmed, Farhan and Cai, Ling and Baracaldo, Nathalie)]
 
-- **.**<br>
-*.*<br>
- `2000`. [[Paper]()]
+### 🔷 Prompt Tuning
+- **Poisonprompt: Backdoor attack on prompt-based large language models.**<br>
+*Yao, Hongwei and Lou, Jian and Qin, Zhan.*<br>
+ICASSP `2024`. [[Paper](https://ieeexplore.ieee.org/abstract/document/10446267)]
+
+### 🔷 In-Context Learning
+- **Data Poisoning for In-context Learning.**<br>
+*Zhao, Shuai and Jia, Meihuizi and Tuan, Luu Anh and Pan, Fengjun and Wen, Jinming.*<br>
+arXiv `2024`. [[Paper](https://arxiv.org/abs/2402.02160)] [[Code](https://anonymous.4open.science/r/ICLPoison-70EE)]
+- **Universal vulnerabilities in large language models: Backdoor attacks for in-context learning.**<br>
+*Zhao, Shuai and Jia, Meihuizi and Tuan, Luu Anh and Pan, Fengjun and Wen, Jinming.*<br>
+ `2000`. [[Paper](https://arxiv.org/abs/2401.05949)] [[Code](https://github.com/shuaizhao95/ICLAttack)]
+
+### 🔷 Prompt Injection
+- **Not what you've signed up for: Compromising real-world llm-integrated applications with indirect prompt injection.**<br>
+*Greshake, Kai and Abdelnabi, Sahar and Mishra, Shailesh and Endres, Christoph and Holz, Thorsten and Fritz, Mario.*<br>
+AISec `2023`. [[Paper](https://dl.acm.org/doi/abs/10.1145/3605764.3623985)]
+
 
 
 
