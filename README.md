@@ -1,8 +1,8 @@
+# Data Poisoning in Deep Learning: A Survey ☠️
+
 <strong>🚧 Continuously updated!</strong>  
 This repository will be continuously updated with the latest research in data poisoning in deep learning.  
-📅 Last updated: March 27, 2025 
-
-# Data Poisoning in Deep Learning: A Survey ☠️
+📅 Last updated: March 28, 2025 
 
 > Data Poisoning in Deep Learning: A Survey
 >
