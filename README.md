@@ -2,7 +2,7 @@
 
 <strong>🚧 Continuously updated!</strong>  
 This repository will be continuously updated with the latest research in data poisoning in deep learning.  
-📅 Last updated: March 28, 2025 
+📅 Last updated: April 5, 2025 
 
 > Data Poisoning in Deep Learning: A Survey
 >
@@ -17,7 +17,7 @@ This repository will be continuously updated with the latest research in data po
 
 
 💉This repository is a collection of resources on **data poisoning in deep learning**, serving as a supplement to our survey paper:  
-📜 "[Data Poisoning in Deep Learning: A Survey](https://arxiv.org/abs/ )" 
+📜 "[Data Poisoning in Deep Learning: A Survey](https://arxiv.org/abs/2503.22759)" 
 
 If you have any recommendations for missing work or suggestions, please feel free to:  
 ✦ [Submit a pull request](https://github.com/YOUR_REPO/Data-Poisoning/pulls)  
