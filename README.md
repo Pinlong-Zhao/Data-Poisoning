@@ -576,3 +576,4 @@ The manuscript is avaliable in arXiv:
 ```sh
 "Data Poisoning in Deep Learning: A Survey". arXiv preprint arXiv: [pdf]
 ```
+ [[pdf](https://arxiv.org/abs/2503.22759)]
