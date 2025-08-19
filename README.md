@@ -2,7 +2,7 @@
 
 <strong>🚧 Continuously updated!</strong>  
 This repository will be continuously updated with the latest research in data poisoning in deep learning.  
-📅 Last updated: April 5, 2025 
+📅 Last updated: August 20, 2025 
 
 > Data Poisoning in Deep Learning: A Survey
 >
@@ -497,9 +497,9 @@ IEEE S&P `2024`. [[Paper](https://ieeexplore.ieee.org/abstract/document/10646851
 - **Characterizing poisoning attacks on generalistic multi-modal AI models.**<br>
 *Ibáñez Lissen, Luis and Fuentes García-Romero de Tejada, José María de and González Manzano, Lorena and García Alfaro, Joaquín.*<br>
 Inf. Fusion `2023`. [[Paper](https://e-archivo.uc3m.es/bitstream/10016/39263/2/characterizing_IF_2024_pp.pdf)] [[Code](https://github.com/Luisibear98/Characterizing-poisoningattacks-on-generalistic-multi-modal-AI-models)]
-- **Data Poisoning in LLMs: Jailbreak-Tuning and Scaling Laws.**<br>
+- **Scaling trends for data poisoning in LLMs.**<br>
 *Bowen, Dillon and Murphy, Brendan and Cai, Will and Khachaturov, David and Gleave, Adam and Pelrine, Kellin.*<br>
-arXiv `2024`. [[Paper](https://arxiv.org/abs/2408.02946)] [[Code](https://github.com/AlignmentResearch/scaling-poisoning)]
+AAAI `2025`. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/34929)] [[Code](https://github.com/AlignmentResearch/scaling-poisoning)]
 
 ### 🔷 Preference Alignment
 - **PoisonBench: Assessing Large Language Model Vulnerability to Data Poisoning.**<br>
@@ -511,6 +511,10 @@ arXiv `2024`. [[Paper](https://arxiv.org/abs/2410.14827)] [[Code](https://github
 - **Universal Jailbreak Backdoors from Poisoned Human Feedback.**<br>
 *Javier Rando and Florian Tramèr.*<br>
 ICLR `2024`. [[Paper](https://arxiv.org/abs/2311.14455)] [[Code](https://github.com/ethz-spylab/rlhf-poisoning)]
+- **Is Poisoning a Real Threat to DPO? Maybe More So Than You Think.**<br>
+*Pankayaraj Pathmanathan, Souradip Chakraborty, Xiangyu Liu, Yongyuan Liang, and Furong Huang.*<br>
+AAAI `2025`. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/34968)]
+
 ### 🔷 Instruction Tuning
 - **Poisoning language models during instruction tuning.**<br>
 *Wan, Alexander and Wallace, Eric and Shen, Sheng and Klein, Dan.*<br>
