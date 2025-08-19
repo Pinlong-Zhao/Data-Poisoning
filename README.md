@@ -549,12 +549,24 @@ ICASSP `2024`. [[Paper](https://ieeexplore.ieee.org/abstract/document/10446267)]
 arXiv `2024`. [[Paper](https://arxiv.org/abs/2402.02160)] [[Code](https://anonymous.4open.science/r/ICLPoison-70EE)]
 - **Universal vulnerabilities in large language models: Backdoor attacks for in-context learning.**<br>
 *Zhao, Shuai and Jia, Meihuizi and Tuan, Luu Anh and Pan, Fengjun and Wen, Jinming.*<br>
- `2000`. [[Paper](https://arxiv.org/abs/2401.05949)] [[Code](https://github.com/shuaizhao95/ICLAttack)]
+arXiv `2024`. [[Paper](https://arxiv.org/abs/2401.05949)] [[Code](https://github.com/shuaizhao95/ICLAttack)]
+- **ICLShield: Exploring and Mitigating In-Context Learning Backdoor Attacks.**<br>
+*Zhiyao Ren, Siyuan Liang, Aishan Liu, and Dacheng Tao.*<br>
+ICML `2025`. [[Paper](https://openreview.net/forum?id=pZbv8pEkfe)]
+- **Visual Contextual Attack: Jailbreaking MLLMs with Image-Driven Context Injection.**<br>
+*Ziqi Miao, Yi Ding, Lijun Li, and Jing Shao.*<br>
+arXiv `2025`. [[Paper](https://arxiv.org/abs/2507.02844)] [[Code](https://github.com/Dtc7w3PQ/Visco-Attack)] 
 
 ### 🔷 Prompt Injection
 - **Not what you've signed up for: Compromising real-world llm-integrated applications with indirect prompt injection.**<br>
 *Greshake, Kai and Abdelnabi, Sahar and Mishra, Shailesh and Endres, Christoph and Holz, Thorsten and Fritz, Mario.*<br>
 AISec `2023`. [[Paper](https://dl.acm.org/doi/abs/10.1145/3605764.3623985)]
+- **Fun-tuning: Characterizing the Vulnerability of Proprietary LLMs to Optimization-based Prompt Injection Attacks via the Fine-Tuning Interface.**<br>
+*Andrey Labunets, Nishit V Pandya, Ashish Hooda, Xiaohan Fu, and Earlence Fernandes.*<br>
+IEEE S&P `2025`. [[Paper](https://ieeexplore.ieee.org/abstract/document/11023405)] [[Code](https://github.com/earlence-security/fun-tuning)] 
+- **Adaptive attacks break defenses against indirect prompt injection attacks on llm agents.**<br>
+*Qiusi Zhan, Richard Fang, Henil Shalin Panchal, and Daniel Kang.*<br>
+NAACL `2025`. [[Paper](https://aclanthology.org/2025.findings-naacl.395/)] [[Code](https://github.com/uiuc-kang-lab/AdaptiveAttackAgent.)] 
 
 
 
