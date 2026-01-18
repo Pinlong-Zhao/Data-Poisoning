@@ -2,7 +2,7 @@
 
 <strong>🚧 Continuously updated!</strong>  
 This repository will be continuously updated with the latest research in data poisoning in deep learning.  
-📅 Last updated: August 20, 2025 
+📅 Last updated: January 18, 2026 
 
 > Data Poisoning in Deep Learning: A Survey
 >
@@ -48,7 +48,9 @@ We appreciate your contributions and feedback!
 　🔹 [Instruction Tuning](#instruction-tuning)  
 　🔹 [Prefix Tuning](#prefix-tuning)  
 　🔹 [In-Context Learning Phase](#in-context-learning-icl-phase)  
-　🔹 [Prompt Injection](#prompt-injection) 
+　🔹 [Prompt Injection](#prompt-injection)  
+　🔹 [Retrieval Augmented Generation](#retrieval-augmented-generation)  
+　🔹 [Others](#others) 
 
 
 ## TAXONOMY OF POISONING ATTACKS
@@ -176,6 +178,7 @@ arXiv `2019`. [[Paper](https://arxiv.org/abs/1912.02771)] [[Data](https://github
 - **Data Poisoning based Backdoor Attacks to Contrastive Learning.**<br>
 *Zhang, Jinghuai and Liu, Hongbin and Jia, Jinyuan and Gong, Neil Zhenqiang.*<br>
 CVPR `2024`. [[Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Zhang_Data_Poisoning_based_Backdoor_Attacks_to_Contrastive_Learning_CVPR_2024_paper.html)] [[Code](https://github.com/jzhang538/CorruptEncoder)]
+
 
 
 ### 🔷 Attack Knowledge
@@ -497,6 +500,9 @@ IEEE S&P `2024`. [[Paper](https://ieeexplore.ieee.org/abstract/document/10646851
 - **Characterizing poisoning attacks on generalistic multi-modal AI models.**<br>
 *Ibáñez Lissen, Luis and Fuentes García-Romero de Tejada, José María de and González Manzano, Lorena and García Alfaro, Joaquín.*<br>
 Inf. Fusion `2023`. [[Paper](https://e-archivo.uc3m.es/bitstream/10016/39263/2/characterizing_IF_2024_pp.pdf)] [[Code](https://github.com/Luisibear98/Characterizing-poisoningattacks-on-generalistic-multi-modal-AI-models)]
+- **Fine-tuning Aligned Language Models Compromises Safety, Even When Users Do Not Intend To!**<br>
+*Qi, Xiangyu and Zeng, Yi and Xie, Tinghao and Chen, Pin-Yu and Jia, Ruoxi and Mittal, Prateek and Henderson, Peter.*<br>
+ICLR `2024`. [[Paper]([https://openreview.net/forum?id=hTeGylKz2p](https://openreview.net/forum?id=hTEGyKf0dZ))] [[Code](https://github.com/LLM-Tuning-Safety/LLMs-Finetuning-Safety)]
 - **Scaling trends for data poisoning in LLMs.**<br>
 *Bowen, Dillon and Murphy, Brendan and Cai, Will and Khachaturov, David and Gleave, Adam and Pelrine, Kellin.*<br>
 AAAI `2025`. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/34929)] [[Code](https://github.com/AlignmentResearch/scaling-poisoning)]
@@ -536,12 +542,15 @@ arXiv `2024`. [[Paper](https://arxiv.org/abs/2402.13459)]
 ### 🔷 Prefix Tuning
 - **Turning Generative Models Degenerate: The Power of Data Poisoning Attacks.**<br>
 *{Jiang, Shuli and Kadhe, Swanand Ravindra and Zhou, Yi and Ahmed, Farhan and Cai, Ling and Baracaldo, Nathalie.*<br>
-arXiv `2024`. [[Paper]({Jiang, Shuli and Kadhe, Swanand Ravindra and Zhou, Yi and Ahmed, Farhan and Cai, Ling and Baracaldo, Nathalie)]
+arXiv `2024`. [[Paper(https://arxiv.org/abs/2407.12281)]
 
 ### 🔷 Prompt Tuning
+- **PPT: Backdoor Attacks on Pre-trained Models via Poisoned Prompt Tuning.**<br>
+*Du, Wei and Zhao, Yichun and Li, Boqun and Liu, Gongshen and Wang, Shilin.*<br>
+IJCAI `2022`. [[Paper(https://www.ijcai.org/proceedings/2022/0096.pdf)]
 - **Poisonprompt: Backdoor attack on prompt-based large language models.**<br>
 *Yao, Hongwei and Lou, Jian and Qin, Zhan.*<br>
-ICASSP `2024`. [[Paper](https://ieeexplore.ieee.org/abstract/document/10446267)]
+ICASSP `2024`. [[Paper(https://ieeexplore.ieee.org/abstract/document/10446267)]
 
 ### 🔷 In-Context Learning
 - **Data Poisoning for In-context Learning.**<br>
@@ -567,6 +576,26 @@ IEEE S&P `2025`. [[Paper](https://ieeexplore.ieee.org/abstract/document/11023405
 - **Adaptive attacks break defenses against indirect prompt injection attacks on llm agents.**<br>
 *Qiusi Zhan, Richard Fang, Henil Shalin Panchal, and Daniel Kang.*<br>
 NAACL `2025`. [[Paper](https://aclanthology.org/2025.findings-naacl.395/)] [[Code](https://github.com/uiuc-kang-lab/AdaptiveAttackAgent.)] 
+
+### 🔷 Retrieval Augmented Generation
+- **PoisonedRAG: Knowledge Corruption Attacks to Retrieval-Augmented Generation of Large Language Models.**<br>
+*Zou, Wei and Geng, Runpeng and Wang, Binghui and Jia, Jinyuan.*<br>
+USENIX Security `2025`. [[Paper](https://www.usenix.org/conference/usenixsecurity25/presentation/zou-poisonedrag)] [[Code](https://github.com/sleeepeer/PoisonedRAG)]
+- **Benchmarking Poisoning Attacks against Retrieval-Augmented Generation.**<br>
+*Zhang, Baolei and Xin, Haoran and Li, Jiatong and Zhang, Dongzhe and Fang, Minghong and Liu, Zhuqing and Nie, Lihai and Liu, Zheli.*<br>
+arXiv `2025`. [[Paper](https://arxiv.org/abs/2505.18543)]
+- **Practical Poisoning Attacks against Retrieval-Augmented Generation.**<br>
+*Zhang, Baolei and Chen, Yuxi and Liu, Zhuqing and Nie, Lihai and Li, Tong and Liu, Zheli and Fang, Minghong.*<br>
+SACMAT `2026`. [[Paper](https://arxiv.org/abs/2504.03957)]
+
+
+### 🔷 Others
+- **Agentpoison: Red-teaming llm agents via poisoning memory or knowledge bases.**<br>
+*Chen, Zhaorun and Xiang, Zhen and Xiao, Chaowei and Song, Dawn and Li, Bo.*<br>
+NeurIPS `2024`. [[Paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/eb113910e9c3f6242541c1652e30dfd6-Abstract-Conference.html)] [[Code](https://github.com/BillChan226/AgentPoison)]
+- **Machine Unlearning Fails to Remove Data Poisoning Attacks.**<br>
+*Pawelczyk, Martin and Di, Jimmy Z and Lu, Yiwei and Sekhari, Ayush and Kamath, Gautam and Neel, Seth.*<br>
+ICLR `2025`. [[Paper](https://openreview.net/forum?id=HaX48yksVL)]
 
 
 
